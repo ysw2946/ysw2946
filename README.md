@@ -32,5 +32,4 @@ ML/DL에 관심이 있으며 한 발짝 한 발짝 성장하고 있습니다.<br
 
 <div align=center>
 
-![Seungwoo's github stats](https://github-readme-stats.vercel.app/api?username=ysw2946&show_icons=true)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw2946&exclude_repo=Hands-On-Machine-Learning,Python-Basic)](https://github.com/ysw2946/github-readme-stats)
+![Seungwoo's github stats](https://github-readme-stats.vercel.app/api?username=ysw2946&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw2946&hide=javascript,html,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
