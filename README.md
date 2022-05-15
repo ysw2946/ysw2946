@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seungwoo's%20GitHub%20Profile&descAlignY=51&descAlign=62&fontColor=FFFFFF)
 
-<p align="center">
-<br><br>
-<Strong>📧Email📧</Strong><br>ysw2946@gmail.com<br>
-</p>
 
 <br>
 
@@ -14,10 +10,18 @@ ML/DL에 관심이 있으며 한 발짝 한 발짝 성장하고 있습니다.<br
 현재 CV을 공부하고 있으며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
 </p>
 
+<p align="center">
+<br><br>
+<Strong>😎Contact</Strong><br>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"> 
+</p>
+
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>⚒️Tech Stack</Strong><br>
 </p>
 <p align="center" display="inline-block">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> 
@@ -26,10 +30,17 @@ ML/DL에 관심이 있으며 한 발짝 한 발짝 성장하고 있습니다.<br
     <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"><br>
    <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> 
    <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat&logo=weightsandbiases&logoColor=white"> 
-</p><br>
-
+</p>
 <br>
 
-<div align=center>
+<p align="center">
+<Strong>🚀Tech blog</Strong><br>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"> 
+</p>
+<br>
 
-![Seungwoo's github stats](https://github-readme-stats.vercel.app/api?username=ysw2946&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw2946&hide=javascript,html,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+---
+<div align=center>
+    
+![Seungwoo's github stats](https://github-readme-stats.vercel.app/api?username=ysw2946&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw2946&hide=javascript,html,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
