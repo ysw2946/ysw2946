@@ -13,6 +13,8 @@ ML/DL에 관심이 있으며 한 발짝 한 발짝 성장하고 있습니다.<br
 <p align="center">
 <br><br>
 <Strong>😎Contact</Strong><br>
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"> 
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"> 
@@ -35,6 +37,8 @@ ML/DL에 관심이 있으며 한 발짝 한 발짝 성장하고 있습니다.<br
 
 <p align="center">
 <Strong>🚀Tech blog</Strong><br>
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"> 
 </p>
 <br>
