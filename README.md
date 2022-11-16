@@ -3,10 +3,6 @@
 
 <br>
 
-<p align="center">
-반갑습니다!👐<br>
-성장하는 데이터 분석가 유승우입니다. <br>
-</p>
 
 <p align="center">
 <br><br>
